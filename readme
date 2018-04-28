@@ -1,2 +1,2 @@
-通过canvas结合jQuery实现的时钟的绘制。
-效果：
+通过canvas结合jQuery实现的时钟的绘制。且改变画布宽高的同时，时钟也会等比例进行缩放。
+效果：https://hanruiying.github.io/canvas-click/
